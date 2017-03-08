@@ -1,0 +1,57 @@
+c:\users\yunus emre\documents\visual studio 2015\Projects\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.exe.config
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.exe
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.pdb
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.EczaDeposuForm.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Properties.Resources.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.exe
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.pdb
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Ilaclar.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Listele.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.YeniIlac.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.IlacSil.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.IlacGuncelleme.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Eczaneler.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.TopluSil.resources
+C:\Users\Yunus Emre\Documents\Visual Studio 2015\Projects\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.SiparisEkle.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.exe.config
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.exe
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.pdb
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.exe
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.pdb
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.csprojResolveAssemblyReference.cache
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.EczaDeposuForm.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Eczaneler.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.IlacGuncelleme.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.IlacSil.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Listele.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Properties.Resources.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.SiparisEkle.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.TopluSil.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.YeniIlac.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.csproj.GenerateResource.Cache
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.StokIslemleriMDI.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.TureGoreListele.resources
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\bin\Debug\myTextBox.dll
+C:\Users\Tugce\Desktop\EczaDeposu\EczaDeposu\bin\Debug\myTextBox.pdb
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.exe.config
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.exe
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.pdb
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.exe
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\bin\Debug\EczaDeposu.pdb
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\bin\Debug\myTextBox.pdb
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.EczaDeposuForm.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Eczaneler.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.IlacGuncelleme.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.IlacSil.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Listele.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.Properties.Resources.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.SiparisEkle.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.StokIslemleriMDI.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.TopluSil.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.TureGoreListele.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.YeniIlac.resources
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre\Desktop\EczaDeposu\EczaDeposu\EczaDeposu\obj\Debug\EczaDeposu.SiparisOnayla.resources
